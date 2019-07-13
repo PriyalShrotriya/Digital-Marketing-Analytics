@@ -1,0 +1,505 @@
+ProductID,Name,MakeFlag,FinishedGoodsFlag,StandardCost,ListPrice,DaysToManufacture,ProductSubcategoryID,SellStartDate,SellEndDate,DiscontinuedDate
+1,Oven Lovin' 5-Piece Gray and Orange Bakeware Set,0,0,0,0,0,1,00:00.0,NULL,NULL
+2,Simply Store 18-Piece Glass Storage Set with Assorted Colored Lids,0,0,0,0,0,1,00:00.0,NULL,NULL
+3,Best SellerSimply Store 10-Piece Glass Storage Set with Blue Lids,1,0,0,0,1,1,00:00.0,NULL,NULL
+4,Steel Baking Sheet,0,0,0,0,0,2,00:00.0,NULL,NULL
+5,10 in. x 15 in. Cookie Pan,1,0,0,0,1,2,00:00.0,NULL,NULL
+6,Cucina Nonstick Carbon Steel Baking Sheet,0,0,0,0,0,2,00:00.0,NULL,NULL
+7,Steel Bundt Pan,0,0,0,0,0,3,00:00.0,NULL,NULL
+8,Steel Springform Cake Pan,0,0,0,0,0,3,00:00.0,NULL,NULL
+9,Steel Rectangular Cake Pan,0,0,0,0,0,3,00:00.0,NULL,NULL
+10,The World 70 in. W x 72 in. L PEVA Shower Curtain,0,0,0,0,0,4,00:00.0,NULL,NULL
+11,Basket Weave 72 in. White Shower Curtain,0,0,0,0,0,4,00:00.0,NULL,NULL
+12,70 in. x 72 in. Satori Leaves Fabric Shower Curtain,0,0,0,0,0,4,00:00.0,NULL,NULL
+13,Restore 6 in. x 3 in. x 4 in. Glazed Ceramic Soap Dish in Bright White,1,0,0,0,1,5,00:00.0,NULL,NULL
+14,Verdanza Wall-Mount Zinc and Glass Soap Dish in Brushed Nickel,0,0,0,0,0,5,00:00.0,NULL,NULL
+15,Century Recessed Soap or Tumbler Holder in Bright Stainless,0,0,0,0,0,5,00:00.0,NULL,NULL
+16,Devonshire 5.125 in. Tumbler and Holder in Oil-Rubbed Bronze,1,0,0,0,1,6,00:00.0,NULL,NULL
+17,Exhibit Wall-Mounted Tumbler Holder in Brushed Nickel,1,0,0,0,1,6,00:00.0,NULL,NULL
+18,Family Size Toothbrush and Toothpaste Holder with 3-Cups,1,0,0,0,1,6,00:00.0,NULL,NULL
+19,Top in Carrara White with White Basin,1,0,0,0,1,7,00:00.0,NULL,NULL
+20,Wyndham Collection Deborah 72 in. W x 22 in. D Vanity in White with Marble Vanity Top in Carrara White with White Basins,1,0,0,0,1,7,00:00.0,NULL,NULL
+21,48 in. W x 22 in. D Vanity in White with Marble Vanity,0,0,0,0,0,7,00:00.0,NULL,NULL
+22,Porter 8 in. Widespread 2-Handle Bathroom Faucet in Oil Rubbed Bronze,0,0,0,0,0,8,00:00.0,NULL,NULL
+23,Aragon 4 in. Centerset Single-Handle Low-Arc Bathroom Faucet in Chrome,0,0,0,0,0,8,00:00.0,NULL,NULL
+24,Genta Single Hole Single-Handle Bathroom Faucet in Spot Resist Brushed Nickel (2-Pack),0,0,0,0,0,8,00:00.0,NULL,NULL
+25,2-Piece 1.28 GPF High Efficiency Single Flush Round Toilet in White,0,0,0,0,0,9,00:00.0,NULL,NULL
+26,Tofino Complete 1-Piece 1.1 GPF Dual Flush Elongated Toilet in White with Slow Close Seat,0,0,0,0,0,9,00:00.0,NULL,NULL
+27,Denim Solid Cotton Standard Sham,0,0,0,0,0,10,00:00.0,NULL,NULL
+28,4-Piece Platinum 1000 Count Cotton Sateen King Sheet Set,0,0,0,0,0,10,00:00.0,NULL,NULL
+29,500 Thread Count Egyptian Cotton Sateen 4-Piece Full Sheet Set in Willow Green Damask,0,0,0,0,0,10,00:00.0,NULL,NULL
+30,4 in. King Gel Infused Memory Foam Mattress Topper,0,0,0,0,0,11,00:00.0,NULL,NULL
+31,2 in. Twin Zoned Lavender Infused Memory Foam Mattress Topper,1,0,0,0,1,11,00:00.0,NULL,NULL
+32,5 in. King Polyester Fiber 500 Thread Count Tencel Mattress Topper,0,0,0,0,0,11,00:00.0,NULL,NULL
+33,Baby Barnyard 3-Piece Crib Set300-Thread Count White Organic Sateen Crib Sheet,0,0,0,0,0,12,00:00.0,NULL,NULL
+34,Animal Stacker's Jungle Red 4-Piece Crib Bedding Set,0,0,0,0,0,12,00:00.0,NULL,NULL
+35,Good Fairies Cotton Percale Multi Crib Sheet,0,0,0,0,0,12,00:00.0,NULL,NULL
+36,Elsie Vintage Industrial Black Finished Metal Daybed,0,0,0,0,0,13,00:00.0,NULL,NULL
+37,Summer Breeze Blueberry Twin Daybed,0,0,0,0,0,13,00:00.0,NULL,NULL
+38,Montgomery Brown Trundle Day Bed,0,0,0,0,0,13,00:00.0,NULL,NULL
+39,Hybrid 10 in. Medium Firm Full Mattress,0,0,0,0,0,14,00:00.0,NULL,NULL
+40,Cool Top 14 in. California King Memory Foam Mattress,0,0,0,0,0,14,00:00.0,NULL,NULL
+41,Response Performance 13.5 in. Queen Plush Euro Pillowtop Mattress with 9 in. High Profile Foundation Set,0,0,0,0,0,14,00:00.0,NULL,NULL
+42,Bedford 20 in. D x 25 in. W x 82 in. H White Wood Wall Closet System,0,0,0,0,0,15,00:00.0,NULL,NULL
+43,Product Image Soft White Wardrobe/Storage Cabinet (84) $29000 Product Overview Specifications Questions & Answers Customer Reviews      +5 undefined Soft White Wardrobe/Storage Cabinet ,0,0,0,0,0,15,00:00.0,NULL,NULL
+44,Vito Sumptuous Cherry Armoire,0,0,0,0,0,15,00:00.0,NULL,NULL
+45,12-Cup Black Chrome Drip Coffee Maker with Programmable Settings,0,0,0,0,0,16,00:00.0,NULL,NULL
+46,Classic K50 Single Serve Coffee Maker in Black,0,0,0,0,0,16,00:00.0,NULL,NULL
+47,Coffee Bar Glass Carafe System,0,0,0,0,0,16,00:00.0,NULL,NULL
+48,Cappuccino and Coffee Maker with One Touch LatteCrema System and Built-In Grinder,0,0,0,0,0,17,00:00.0,NULL,NULL
+49,PrimaDonna S Deluxe Fully Automatic Stainless Steel Espresso and Cappuccino Maker with One Touch LatteCrema System,0,0,0,0,0,17,00:00.0,NULL,NULL
+50,Eletta Top Fully Automatic Espresso,0,0,0,0,0,17,00:00.0,NULL,NULL
+51,Columbia 8-Cup Stainless Steel French Press Coffee Maker,0,0,0,0,0,18,00:00.0,NULL,NULL
+52,Classic 8-Cup Coffee Maker,0,0,0,0,0,18,00:00.0,NULL,NULL
+53,Chambord 12-Cup Chrome French Press Coffee Maker,0,0,0,0,0,18,00:00.0,NULL,NULL
+54,Black Ergonomic Sit-Stand Desktop Workstation,0,0,0,0,0,19,00:00.0,NULL,NULL
+55,Aldridge Antique Grey Desk with Keyboard Tray,0,0,0,0,0,19,00:00.0,NULL,NULL
+56,600 Series Double Pedestal Steel Desk in Black/Medium Oak,0,0,0,0,0,19,00:00.0,NULL,NULL
+57,Articulate Drafting Stool in Black,0,0,0,0,0,20,00:00.0,NULL,NULL
+58,Prim Armless Mid Back Office Chair in Black,0,0,0,0,0,20,00:00.0,NULL,NULL
+59,Black ProGrid Mid Back Manager Office Chair,0,0,0,0,0,20,00:00.0,NULL,NULL
+60,White Open 5-Shelf Bookcase,0,0,0,0,0,21,00:00.0,NULL,NULL
+61,Black Steel Bookcase,0,0,0,0,0,21,00:00.0,NULL,NULL
+62,Elements Silicone Tool (Set of 8),0,0,0,0,0,22,00:00.0,NULL,NULL
+63,Bamboo Cooking Utensil Set (7-Piece),0,0,0,0,0,22,00:00.0,NULL,NULL
+64,Everwood Kitchen Nylon Tools (Set of 5),0,0,0,0,0,22,00:00.0,NULL,NULL
+65,14 in. Professional Stainless Steel Heavy Duty Whisk,0,0,0,0,0,23,00:00.0,NULL,NULL
+66,Studio Silicone Whisk 9 in.,0,0,0,0,0,23,00:00.0,NULL,NULL
+67,Stainless Steel Tri-Color Mixing Whisks (Set of 3),0,0,0,0,0,23,00:00.0,NULL,NULL
+68,Seasoned Cast Iron Care Kit,0,0,0,0,0,24,00:00.0,NULL,NULL
+69,Nylon Paddle Scraper Spatula,0,0,0,0,0,24,00:00.0,NULL,NULL
+70,Rubber Spatula in White,0,0,0,0,0,24,00:00.0,NULL,NULL
+71,Hampton Harbor 37 in. Triple Tilt-Out Hamper in White,0,0,0,0,0,25,00:00.0,NULL,NULL
+72,20.5 in. W Animal Laundry Hamper in White,0,0,0,0,0,25,00:00.0,NULL,NULL
+73,Commercial Canvas Laundry Hamper Cart,0,0,0,0,0,25,00:00.0,NULL,NULL
+74,White and Gray Collapsible Plastic and Rubber Laundry Basket,0,0,0,0,0,26,00:00.0,NULL,NULL
+75,Water Hyacinth Large Bowls Natural (Set of 4 1/L-1/M & 2/S),0,0,0,0,0,26,00:00.0,NULL,NULL
+76,Ultra Square Laundry Basket,0,0,0,0,0,26,00:00.0,NULL,NULL
+77,Modular Laundry Room Storage Set with Accessories in White (4-Piece),1,0,0,0,1,27,00:00.0,NULL,NULL
+78,Select 18.62 in. D x 23.98 in. W x 35.98 in. H 2-Door Base Cabinet Wood Closet System with Drawer in Espresso,1,0,0,0,1,27,00:00.0,NULL,NULL
+79,Laundry Utility Washing Machine Shelf/Rack with Extention,1,0,0,0,1,27,00:00.0,NULL,NULL
+80,Omni 3-Piece Teal Hardside Spinner Luggage Set,1,0,0,0,1,28,00:00.0,NULL,NULL
+81,Elite Verdugo Hardside 3-Piece Black Spinner Luggage Set,0,0,0,0,0,28,00:00.0,NULL,NULL
+82,Santa Fe 3-Piece Black/Blue Expandable EVA Spinner Set,0,0,0,0,0,28,00:00.0,NULL,NULL
+83,3-Piece Hardside Luggage Collection with Spinner Wheels,0,0,0,0,0,29,00:00.0,NULL,NULL
+84,Rockland 4-Piece Impact Spinner Softside Luggage Set,0,0,0,0,0,29,00:00.0,NULL,NULL
+85,Travelers Choice Versatile 5-Piece Purple Luggage Set,0,0,0,0,0,29,00:00.0,NULL,NULL
+86,BackpackFall Collection 18 in. Blue Surge Backpack,0,0,0,0,0,30,00:00.0,NULL,NULL
+87,Black and Grey Bungee Backpack,0,0,0,0,0,30,00:00.0,NULL,NULL
+88,Fall Collection 18 in. Blue Surge,0,0,0,0,0,30,00:00.0,NULL,NULL
+89,37 in. Black Hub Wall Mirror,0,0,0,0,0,31,00:00.0,NULL,NULL
+90,23 in. x 29 in. Fushcia Oval Mirror,0,0,0,0,0,31,00:00.0,NULL,NULL
+91,ExclusiveSole 35.5 in. H x 35.5 in. W Silver Round Framed Mirror,0,0,0,0,0,31,00:00.0,NULL,NULL
+92,Embossted Metall Full Length Rectangular Bronze Floor Mirror,0,0,0,0,0,32,00:00.0,NULL,NULL
+93,Frost White Full Length Leaner Floor Mirror,0,0,0,0,0,32,00:00.0,NULL,NULL
+94,Clarisse 63 in. x 26 in. Metal Framed Mirror,0,0,0,0,0,32,00:00.0,NULL,NULL
+95,Banbury 26 in. x 23 in. Frameless Pivoting Wall Mirror in Brushed Nickel,0,0,0,0,0,33,00:00.0,NULL,NULL
+96,29 in. W x 40 in. L Framed Fog Free Wall Mirror in White,0,0,0,0,0,33,00:00.0,NULL,NULL
+97,24 in. W x 35 in. L Framed Fog Free Wall Mirror in Silver,0,0,0,0,0,33,00:00.0,NULL,NULL
+98,OWT (Ornamental Wood Ties) 3-3/8 in. Decorative Metal Star (10-Pack),0,0,0,0,0,34,00:00.0,NULL,NULL
+99,Contemporary Metal Brown Wall Candle Sconces with Antique Patina Medallions (Set of 2),0,0,0,0,0,34,00:00.0,NULL,NULL
+100,Corinth Framed Oil Painting,0,0,0,0,0,35,00:00.0,NULL,NULL
+101,24 in. x 63 in. Blue Wave 2 Frameless Free Floating Tempered Glass Panel Graphic Wall Art,0,0,0,0,0,35,00:00.0,NULL,NULL
+102,Multi Metal Plate Wall Decor,0,0,0,0,0,35,00:00.0,NULL,NULL
+103,5 in. x 19 in. White Blossom Branch with Embellishments 31-Piece Peel and Stick Giant Wall Decal,0,0,0,0,0,36,00:00.0,NULL,NULL
+104,4 in. x 16.74 in. 16-Piece Multi-Color Distressed Barn Wood Plank Peel and Stick Wall Decals,0,0,0,0,0,36,00:00.0,NULL,NULL
+105,DecoWall Gray 1/4 in. T x 5 in. W x Varying Length Peel & Stick Solid Hardwood Flooring Wall Plank (13 sq. ft. / case),0,0,0,0,0,36,00:00.0,NULL,NULL
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

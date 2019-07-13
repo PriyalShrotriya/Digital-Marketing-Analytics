@@ -1,0 +1,16 @@
+﻿SpecialOfferID,Description,DiscountPct,Type,Category,StartDate,EndDate,MinQty,MaxQty,MarketingID
+1,No Discount,0,No Discount,No Discount,00:00.0,00:00.0,0,NULL,NULL
+2,20$ coupon,0.02,Volume Discount,Reseller,00:00.0,00:00.0,11,14,1
+3,Upto 40% off on Laundry ,0.05,Volume Discount,Reseller,00:00.0,00:00.0,15,24,3
+4,5% off ,0.1,Volume Discount,Reseller,00:00.0,00:00.0,25,40,5
+5,25% off on Bookcases,0.15,Volume Discount,Reseller,00:00.0,00:00.0,41,60,7
+6,50% off,0.2,Volume Discount,Reseller,00:00.0,00:00.0,61,NULL,2
+7,Kitchen and Dining - Clearance Sale,0.35,Discontinued Product,Reseller,00:00.0,00:00.0,0,NULL,4
+8,Luggage Discount-10%,0.1,Seasonal Discount,Reseller,00:00.0,00:00.0,0,NULL,6
+9,5$ off on Espresso,0.3,Excess Inventory,Reseller,00:00.0,00:00.0,0,NULL,8
+10,Mattress Sale,0.5,Excess Inventory,Customer,00:00.0,00:00.0,0,NULL,1
+11,Furniture Discount-15%,0.15,Seasonal Discount,Reseller,00:00.0,00:00.0,0,NULL,3
+12,Upto 30% off-Home Décor,0.15,New Product,Reseller,00:00.0,00:00.0,0,NULL,4
+13,Student Movin-in discount- Flat 20$ off ,0.2,New Product,Reseller,00:00.0,00:00.0,0,NULL,6
+14,Half-Price Shower Curtains Sale,0.5,Seasonal Discount,Customer,00:00.0,00:00.0,0,NULL,2
+15,Toilet Clearance Sale,0.4,Excess Inventory,Reseller,00:00.0,00:00.0,0,NULL,5
